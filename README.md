@@ -25,4 +25,6 @@ Explored how country-level filters change trends across release years
 🔗 GitHub Repository: SCT_DS_1
 
 🔗 View the Dashboard
-https://public.tableau.com/views/NetflixDashboard-Mythri/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[Click here to view the Dashboard](https://public.tableau.com/views/NetflixDashboard-Mythri/Dashboard1?:language=en-US&publish=yes&:sid=&redirect=auth&)
+
+
