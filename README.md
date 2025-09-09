@@ -27,11 +27,12 @@ Explored how country-level filters change trends across release years
 
 📂 Repository Structure
 
-🔗 GitHub Repository: SCT_DS_1
+🔗 GitHub Repository: [SCT_DS_1](https://github.com/mythrii18/SCT_DS_1)
 
 🔗 View the Dashboard
 
 [Click here to view the Dashboard](https://public.tableau.com/views/NetflixDashboard-Mythri/Dashboard1?:language=en-US&publish=yes&:sid=&redirect=auth&)
+
 
 
 
