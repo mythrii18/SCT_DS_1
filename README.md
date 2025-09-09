@@ -1,6 +1,6 @@
 SCT_DS_1
 
-Task 1 – Netflix Titles Dashboard | Data Science Internship
+Task 1 – Netflix Movies And TV Shows Dashboard | Data Science Internship
 
 📌 Task Objective
 
@@ -32,6 +32,7 @@ Explored how country-level filters change trends across release years
 🔗 View the Dashboard
 
 [Click here to view the Dashboard](https://public.tableau.com/views/NetflixDashboard-Mythri/Dashboard1?:language=en-US&publish=yes&:sid=&redirect=auth&)
+
 
 
 
